@@ -117,7 +117,7 @@ fbpca==1.0
 fbprophet==0.3.post2
 feather-format==0.4.0
 featuretools==0.3.1
-filelock==3.0.9
+filelock==3.20.3
 Fiona==1.7.13
 fitter==1.0.8
 flake8==3.5.0
