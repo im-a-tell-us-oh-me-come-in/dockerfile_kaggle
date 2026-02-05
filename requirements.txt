@@ -215,7 +215,7 @@ jupyterlab==1.2.21
 jupyterlab-launcher==0.13.1
 jupyterlab-server==0.2.0
 kaggle==1.5.6
-Keras==2.2.4
+Keras==3.13.1
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 keras-rcnn==0.0.2
