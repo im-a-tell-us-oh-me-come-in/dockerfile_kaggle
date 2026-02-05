@@ -138,7 +138,7 @@ gensim==3.6.0
 geographiclib==1.49
 Geohash==1.0
 geojson==2.4.0
-geopandas==0.4.0
+geopandas==1.1.2
 geoplot==0.2.0
 geopy==1.17.0
 geoviews==1.5.3
